@@ -14,3 +14,7 @@ Di seguito la lista dei moduli necessari, compilata a fine dicembre 2016.
 - [Entity Reference](https://www.drupal.org/project/entityreference);
 - [Views](https://www.drupal.org/project/views);
 - [Views Bulk Operations](https://www.drupal.org/project/views_bulk_operations);
+- [Entity reference
+  prepopulate](www.drupal.org/project/entityreference_prepopulate);
+- [Panels](www.drupal.org/project/panels);
+- [Rules](www.drupal.org/project/rules);
