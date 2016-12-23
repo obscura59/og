@@ -1,5 +1,5 @@
 #  og
-## Materaili e metodi per implementare OG
+## Materiali e metodi per implementare OG
 
 ## Materiali
 [Organic Group](www.drupal.org/project/og), richiede una seria abbastanza
