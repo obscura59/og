@@ -18,3 +18,7 @@ Di seguito la lista dei moduli necessari, compilata a fine dicembre 2016.
   prepopulate](www.drupal.org/project/entityreference_prepopulate);
 - [Panels](www.drupal.org/project/panels);
 - [Rules](www.drupal.org/project/rules);
+ 
+ ## Metodi
+
+ Organic Group serve a molte cose: aree riservate, per esempio.
