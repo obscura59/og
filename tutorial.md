@@ -6,4 +6,4 @@
 - http://drupalize.me/videos/introduction-organic-groups-drupal-7?p=1172
 - http://www.drupal.org/node/2014733
 - http://www.ostraining.com/blog/drupal/organic-groups/
-
+- http://www.lullabot.com/articles/organic-groups-for-drupal-7
